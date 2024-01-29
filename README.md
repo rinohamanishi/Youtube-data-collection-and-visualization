@@ -5,6 +5,7 @@ In this lab, I learned how to create a web crawler that collects data from youtu
 I wanted to make this comparison because homelessness is one of Seattle’s biggest social problems right now, and indigenous people make up 32% of the chronic homeless population in King County when they only account for 2% of the general population. 
 
 The results:
+
 ![king county native poverty (1)](https://github.com/rinohamanishi/Youtube-data-collection-and-visualization/assets/131402306/62789069-2057-4cbe-a04b-b322e08355d7)
 ![seattle homelessness (2)](https://github.com/rinohamanishi/Youtube-data-collection-and-visualization/assets/131402306/a926b849-e649-49c4-aecf-9972b9cf4cba)
 
