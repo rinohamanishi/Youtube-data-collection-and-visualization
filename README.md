@@ -1,1 +1,14 @@
 # Youtube-data-collection-and-visualization
+
+Please create a narrative based on your research. In your narrative, please describe
+the topic as well as the parameters you have used for search (5 PTS)
+In this lab, I learned how to create a web crawler that collects data from youtube, and then visualize the collected data. I chose to investigate topic of Seattle’s homelessness and indigenous poverty. I used the keywords “seattle+homelessness” and “washington+indigenous+poverty”. 
+why do you want to make this comparison (5 PTS)
+I wanted to make this comparison because homelessness is one of Seattle’s biggest social problems right now, and indigenous people make up 32% of the chronic homeless population in King County when they only account for 2% of the general population. 
+compare the word clouds and discuss the difference or similarity among the word clouds (5 PTS)
+I found that there were many occurrences of words like RV, Park, Encampment and Shelter for Seattle’s word cloud, which reveal their way of surviving day to day and the high number of people who are in these places. These were not common word for the indigenous search result, which had more place names that had high indigenous poverty, like Australia and Canada. The words for the indigenous result had specific words that reveal their circumstance like Reserve, Alcohol, Water, and Children. A key difference I found was that while the Seattle one had more objective, analytical words like According, Deaths, Estimate, and Report, the indigenous one had more conceptual words like Economics, Community, Utopia, Native, and Story. 
+what might be the possible reasons for the patterns you observed (5 PTS)
+I think this is because the search result for Seattle is mostly major news channels like Fox News and KOMO news, which report the homelessness in a more detached way that focus on the crimes and breaking of the law. This is reflected in the words like “Police”, “Crime” and “Drug”. On the other hand, the indigenous search result had many videos that were more like a documentary that delved into specific neighborhoods or families. This is evident in the way words like “Documentary” and “Film” showed up often. I think this indicates that not enough major news media focus on the indigenous populations experiencing homelessness or poverty enough, and that only certain news channels and the individual youtubers try to talk about this issue. 
+how your research could be improved in the future (5 PTS)
+I think that the word cloud can include the title as well, because the description often doesn’t have an accurate summary of the video. I think the bot should also be able to extract information from the 
+anything you find from the map or data that is different from your expectation before the exercise, or anything that stands out to you (5 PTS)
