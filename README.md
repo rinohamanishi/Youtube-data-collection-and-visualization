@@ -10,6 +10,4 @@ I think this is because the search result for Seattle is mostly major news chann
 
 I think that the word cloud can include the title as well, because the description often doesn’t have an accurate summary of the video. I think the bot should also be able to extract the entire description of each videos instead of just the first sentence, because the first line that shows on the thumbnail page often had introductions of their channel or something irrelevant to the topic. 
 
-anything you find from the map or data that is different from your expectation before the exercise, or anything that stands out to you (5 PTS)
-
 I expected more words related to race or ethnicity in the Seattle's case, but it didn't have any words related to it. I think this is a little bit lacking for how much more the BIPOC populations face poverty and homelessness. I also was not expecting the type of videos to be different for the two topics, and I thought that this was important in analyzing the word cloud. An idea I have to improve this is to color code the words that are most used by each channel of the videos, which the bot extracts. 
